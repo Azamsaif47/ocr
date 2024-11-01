@@ -1,0 +1,18 @@
+.upload-exam-sheets-container {
+  max-width: 1200px; /* Set a maximum width for the container */
+  width: 100%; /* Make the container take full width */
+  height: 500px; /* Keep the fixed height */
+  overflow-y: auto; /* Enable vertical scrolling */
+  padding: 16px; /* Add some padding */
+  border: 1px solid #ccc; /* Optional: add a border for visual clarity */
+  background-color: #f9f9f9; /* Optional: add a background color */
+  margin: 0 auto; /* Center the container horizontally */
+}
+
+.file-upload-section {
+  margin-bottom: 16px; /* Spacing below the upload section */
+}
+
+.ant-table {
+  margin-top: 16px; /* Space above the table */
+}

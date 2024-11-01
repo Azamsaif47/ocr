@@ -1,0 +1,12 @@
+body {
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: center; /* Centering the content */
+  align-items: center; /* Centering vertically if needed */
+  height: 100vh; /* Full viewport height */
+}
+
+#root { /* Assuming you are using create-react-app */
+  width: 100%; /* Full width for the root */
+}
